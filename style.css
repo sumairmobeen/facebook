@@ -1,0 +1,75 @@
+.image{
+    margin:20px auto 0 auto;
+    width: 900px;
+}
+
+.image img{
+    width: 100%;
+    text-align: center;
+}
+.p
+.button{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10pt;
+}
+input[type="button"]{
+    background-color: black;
+    color: aqua;
+
+}.container{
+    width: 900px;
+    margin: 0 auto;
+    
+}
+
+div {
+    border-bottom: 1px solid #efefef;
+    margin: 10px;
+    padding-bottom: 10px;
+    width: 260px;}
+    .title {
+    float: left;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;}
+    .radio-buttons label {
+    float: none;}
+    .submit {
+    text-align: right;}
+
+    a {
+        cursor:move}
+        ul {
+            list-style-image: url("images/star.png");}
+            li {
+            margin: 10px 0px 0px 0px;}
+
+            body {
+                font-family: Arial, Verdana, sans-serif;
+                color: #111111;}
+                table {
+                width: 600px;}
+                th, td {
+                padding: 7px 10px 10px 10px;}
+                th {
+                text-transform: uppercase;
+                letter-spacing: 0.1em;
+                font-size: 90%;
+                border-bottom: 2px solid #111111;
+                border-top: 1px solid #999;
+                text-align: left;}
+                tr.even {
+                background-color: #efefef;}
+                tr:hover {
+                background-color: #c3e6e5;}
+                .money {
+                text-align: right;}
+
+                td {
+                    border: 1px solid #0088dd;
+                    padding: 15px;}
+                    table.one {
+                    empty-cells: show;}
+                    table.two {
+                    empty-cells: hide;}
